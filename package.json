@@ -1,6 +1,6 @@
 {
   "name": "employee",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "dependencies": {
     "@cap-js/hana": "^2",
     "@sap/cds": "^9",
